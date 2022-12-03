@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Everyone! ,<br>Myself Sheikh Ahmadullah, <br>A passionate flutter developer & competitive programmer from India.
+Hi Everyone!<br>Myself Sheikh Ahmadullah, <br>A passionate flutter developer & competitive programmer from India.
 
 
 # 💻 Tech Stack:
